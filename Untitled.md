@@ -1,5 +1,3 @@
-
-
 <svg
    width="309.05054mm"
    height="128.64041mm"
@@ -13,26 +11,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview5462"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="0.76880612"
-     inkscape:cx="605.48425"
-     inkscape:cy="279.65438"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="1912"
-     inkscape:window-y="108"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" /><defs
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs5457"><clipPath
        id="clippath"><path
          d="M 438.4697,442.0799 H 216.8471 V 48.0842 c 0,0 221.6226,0 221.6226,0 z m 263.0003,0 H 479.8474 V 144.5125 c 0,0 221.6226,0 221.6226,0 z m 263.0003,0 H 742.8477 V 48.0842 c 0,0 221.6226,0 221.6226,0 z"
